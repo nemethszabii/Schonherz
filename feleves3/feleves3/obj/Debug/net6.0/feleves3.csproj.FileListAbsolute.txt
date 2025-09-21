@@ -1,0 +1,14 @@
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\bin\Debug\net6.0\feleves3.exe
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\bin\Debug\net6.0\feleves3.deps.json
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\bin\Debug\net6.0\feleves3.runtimeconfig.json
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\bin\Debug\net6.0\feleves3.dll
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\bin\Debug\net6.0\feleves3.pdb
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\obj\Debug\net6.0\feleves3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\obj\Debug\net6.0\feleves3.AssemblyInfoInputs.cache
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\obj\Debug\net6.0\feleves3.AssemblyInfo.cs
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\obj\Debug\net6.0\feleves3.csproj.CoreCompileInputs.cache
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\obj\Debug\net6.0\feleves3.dll
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\obj\Debug\net6.0\refint\feleves3.dll
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\obj\Debug\net6.0\feleves3.pdb
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\obj\Debug\net6.0\feleves3.genruntimeconfig.cache
+C:\Users\Németh Szabolcs\source\repos\feleves3\feleves3\obj\Debug\net6.0\ref\feleves3.dll
